@@ -1,0 +1,2 @@
+C:\Users\samue\OneDrive\Desktop\Universidad\Diseno Grafico\GLSL_Lighting\Debug\TemplateProject.exe
+C:\Users\david\OneDrive\Escritorio\GLSL_Lighting\Debug\TemplateProject.exe
